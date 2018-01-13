@@ -1,0 +1,28 @@
+.logo {
+  height: 100px; }
+
+.header {
+  background-color: black;
+  height: 250px;
+  padding: 20px;
+  color: white; }
+
+.title {
+  font-size: 1.5em; }
+
+main {
+  padding: 100px;
+  background-color: darkgray; }
+
+.footer {
+  color: yellow;
+  padding: 100px;
+  background-color: darkred; }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif; }
+
+.App {
+  text-align: center; }
